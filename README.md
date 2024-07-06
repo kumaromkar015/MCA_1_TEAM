@@ -1,2 +1,2 @@
 # MCA_1_TEAM
-Masters developers teams coloborate in this repository.
+Masters developers team coloborate in this repository.
